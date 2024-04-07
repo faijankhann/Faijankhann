@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Faijan Khan
 - 👀 I’m Frontend Devloper
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Devlopment
-- 📫 How to reach me ...
+- 📫 How to reach me on 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
