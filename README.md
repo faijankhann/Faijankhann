@@ -2,9 +2,8 @@
 - 👀 I’m Frontend Devloper
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Devlopment
-- 📫 How to reach me on Instagram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach me on Instagram - @faizan.id
+  
 
 <!---
 Faijankhann/Faijankhann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
