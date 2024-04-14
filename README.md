@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Devlopment
 - 📫 Reach me on Instagram - @faizan.id
   
-g
+gg
 
 <!---
 Faijankhann/Faijankhann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
