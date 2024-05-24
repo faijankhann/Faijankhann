@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Devlopment
 - 📫 Reach me on Instagram - @faizan.id
-pigpdfokg;ldkgpodfogikpd
+
 
 <!---
 Faijankhann/Faijankhann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
