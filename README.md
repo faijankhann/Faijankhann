@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Devlopment
 - 📫 Reach me on Instagram - @faizan.id
-- vlbkl;vk
+- vlbkl;vkflgfgkd;k
 
 
 <!---
