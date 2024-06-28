@@ -2,9 +2,7 @@
 - 👀 I’m Frontend Devloper
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web Devlopment
-- 📫 Reach me on Instagram - @faizan.id
-- vlbkl;vkflgfgkd;kfogkdfk
-
+- 📫 Reach me on 
 
 <!---
 Faijankhann/Faijankhann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
