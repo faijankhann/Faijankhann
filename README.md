@@ -28,7 +28,6 @@
 
 
 ![logo](https://github.com/faijankhann/Faijankhann/blob/main/banner.png) 
-abcd
 
 
 <!---
